@@ -2,8 +2,7 @@
     "name": "palm-netlify-proxy",
     "version": "1.0.1",
     "scripts": {},
-    "dependencies": {},
     "devDependencies": {
-        "@netlify/edge-functions": "2.11.1"
+        "@netlify/edge-functions": "^2.14.5"
     }
-  }
+}
